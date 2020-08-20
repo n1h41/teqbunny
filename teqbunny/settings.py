@@ -26,7 +26,7 @@ SECRET_KEY = 'yvu#e*b*#g#9^qpmrf&^%7^%o)pt=_8=4(gg(mhas-2@p!)4da'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['23.98.43.159','teqbunny.eastasia.cloudapp.azure.com',]
+ALLOWED_HOSTS = ['23.98.43.159','teqbunny.eastasia.cloudapp.azure.com','www.tenzero.ml']
 
 
 # Application definition
